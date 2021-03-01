@@ -1,7 +1,7 @@
 const add_gun='+';
 const remove_gun='-';
 
-export function createShaDaPao(state= 10,action) {
+export function daPao(state= 10,action) {
     switch (action.type) {
         case add_gun:
             return state+1;

@@ -7,6 +7,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1p1QHC76ocpInbtRqZM8fiMjqxq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -22,6 +29,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\软件\WebStorm 2019.3.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="SvnConfiguration">
@@ -36,6 +44,7 @@
       <updated>1614348026489</updated>
       <workItem from="1614348030016" duration="2112000" />
       <workItem from="1614515017853" duration="5539000" />
+      <workItem from="1614597499201" duration="5493000" />
     </task>
     <servers />
   </component>
@@ -43,9 +52,17 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614603903422">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1614603903422" />
     <state x="726" y="224" width="734" height="534" key="find.popup" timestamp="1614519591632">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="726" y="224" width="734" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614519591632" />
+    <state x="497" y="229" width="924" height="678" key="search.everywhere.popup" timestamp="1614603226097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="497" y="229" width="924" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1614603226097" />
   </component>
 </project>
